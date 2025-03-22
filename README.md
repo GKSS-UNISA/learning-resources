@@ -1,7 +1,6 @@
 # AI and Machine Learning
 * https://www.kaggle.com/learn
 * https://huggingface.co/
-* 
 
 # Blockchain
 * 
@@ -28,14 +27,12 @@
 * https://www.root-me.org/?lang=en
 * https://malwareunicorn.org/workshops/re101.html#0
 * https://kshackzone.com/
-* 
 
 # Data Science and Analytics
 * 
 
 # IoT and Embedded Systems
 * https://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm
-* 
 
 # Software Engineering and Web Development
 * Read Documentation! You will never go wrong. 
@@ -45,7 +42,7 @@
 * https://hyperskill.org/courses
 * https://www.boot.dev/tracks/backend
 * https://cplusplus.com/
-* 
+* https://app.codecrafters.io/catalog
 
 # Tech Resources 
 * https://www.classcentral.com/
@@ -53,7 +50,6 @@
 * https://thehackernews.com/
 * https://app.daily.dev/onboarding
 * https://hackforums.net/
-* 
 
 # Podcasts 
 * Darknet Diaries
@@ -64,9 +60,7 @@
 * Click Here
 * Open Source Security
 * Day[0]
-* 
 
 # YouTube channels
 * https://www.youtube.com/@ITWEBvideo/videos
 * https://www.youtube.com/@mrsibiya
-* 
