@@ -29,7 +29,8 @@
 * https://kshackzone.com/
 
 # Data Science and Analytics
-* 
+* https://roadmap.sh/data-analyst
+* https://roadmap.sh/ai-data-science
 
 # IoT and Embedded Systems
 * https://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm
@@ -42,6 +43,7 @@
 * https://hyperskill.org/courses
 * https://www.boot.dev/tracks/backend
 * https://cplusplus.com/
+* https://learncpp.com/
 * https://app.codecrafters.io/catalog
 
 # Tech Resources 
