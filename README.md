@@ -1,9 +1,10 @@
 # AI and Machine Learning
 * https://www.kaggle.com/learn
 * https://huggingface.co/
+* https://roadmap.sh/ai-data-scientist
 
 # Blockchain
-* 
+* https://roadmap.sh/blockchain
 
 # Cybersecurity
 * https://www.hacking-notes.com/
@@ -27,6 +28,7 @@
 * https://www.root-me.org/?lang=en
 * https://malwareunicorn.org/workshops/re101.html#0
 * https://kshackzone.com/
+* https://roadmap.sh/cyber-security
 
 # Data Science and Analytics
 * https://roadmap.sh/data-analyst
@@ -48,6 +50,7 @@
 
 # Tech Resources 
 * https://www.classcentral.com/
+* https://roadmap.sh
 * https://ctftime.org/
 * https://thehackernews.com/
 * https://app.daily.dev/onboarding
@@ -63,6 +66,7 @@
 * Click Here
 * Open Source Security
 * Day[0]
+* Tech Won't Save Us
 
 # YouTube channels
 * https://www.youtube.com/@ITWEBvideo/videos
