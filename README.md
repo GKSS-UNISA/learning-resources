@@ -52,6 +52,7 @@
 * https://thehackernews.com/
 * https://app.daily.dev/onboarding
 * https://hackforums.net/
+* https://dev.to/omerberatsezer/docker-tutorial-dockerfile-commands-container-images-volume-network-docker-compose-2p9h
 
 # Podcasts 
 * Darknet Diaries
